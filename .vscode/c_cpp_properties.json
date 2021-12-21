@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Root",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/daniele/root/include/",
+                "/home/daniele/root/include/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17"
+        }
+    ],
+    "version": 4
+}
